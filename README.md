@@ -1,6 +1,6 @@
 ### Hi, I'm Jadi! 👋
 I'm currently working on...
-- the prototype that will eventually become my Computer Science Capstone project at Ball State University.
+- the prototype that may eventually become my Computer Science Capstone project at Ball State University.
 - a fishing game made in Godot Engine with a group of friends.
 - updating my [website](https://jadi.codes/) to accurately represent myself and my work.
 
