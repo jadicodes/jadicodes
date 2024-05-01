@@ -1,9 +1,7 @@
 ### Hi, I'm Jadi! 👋
 I'm currently working on...
-- pre-production phase of a game that might become a Capstone project.
-- a fishing game made in Godot Engine with a group of friends.
-- updating my [website](https://jadi.codes/) to accurately represent myself and my work.
-
+- a ball drop game inspired by Suika Game.
+  
 <!--
 **jadimiller/jadimiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
