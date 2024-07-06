@@ -1,6 +1,7 @@
 ### Hi, I'm Jadi! 👋
 I'm currently working on...
-- a ball drop game inspired by Suika Game.
+- a chicken farmer RPG!
+- a digital card game played by wizards.
   
 <!--
 **jadimiller/jadimiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
