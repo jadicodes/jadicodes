@@ -1,4 +1,8 @@
 ### Hi, I'm Jadi! 👋
+
+Check out some of my games! --->
+[Prismatoad!](prismatoad.itch.io)
+
 I'm currently working on...
 - a chicken farmer RPG!
 - a digital card game played by wizards.
