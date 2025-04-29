@@ -1,8 +1,5 @@
 ### Hi, I'm Jadi! 👋
 
-Check out my website! ---> [jadi.codes](https://jadi.codes/)
-
-
 Check out some of my games! ---> [Prismatoad!](https://prismatoad.itch.io/)
   
 <!--
